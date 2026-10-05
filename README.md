@@ -74,6 +74,7 @@ Applications focused on autonomous or semi-autonomous task execution.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Experimental autonomous AI agent framework.
 - [AgentGPT](https://agentgpt.reworkd.ai/) — Browser-based platform for deploying autonomous agents.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) — Minimal AI task management system using agents.
+- [Keel](https://github.com/KeelDev-tech/keel) — Open-source job-application autopilot with a truthfulness contract: it never invents experience, degrees, or answers, and parks anything it cannot answer honestly. Free, open-core (Apache two point oh), self-hosted.
 - [Superagent](https://github.com/homanp/superagent) — Platform for building and deploying AI agents.
 
 ## Platforms & Builders
